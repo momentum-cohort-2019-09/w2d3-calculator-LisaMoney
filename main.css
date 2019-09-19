@@ -1,0 +1,19 @@
+.border {
+    padding: 20px;
+    background-color: green;
+}
+
+.calculator {
+    background-color: lightgreen;
+    text-align: center;
+    grid-column: auto;
+    padding: 30px;
+}
+
+.calculator div {
+    display: inline-table;
+    margin: 20px auto;
+}
+
+.number {
+}
